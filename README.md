@@ -59,7 +59,7 @@ This repository serves as a guide and showcase for the **EYUAI Free AI Image Gen
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | ![机甲风格AI生图展示1](https://img.eyuseo.com/file/image-generator/6NXYHuer.webp) | ![机甲风格AI生图展示2](https://img.eyuseo.com/file/image-generator/PKZZeAWF.webp) |
-> **Prompt 1:** 一台重型战斗机甲，表面有战损痕迹，雨夜街道背景，红外线传感器发光，赛博朋克霓虹灯反射在装甲上，电影级光效。
+> **Prompt 1:** 一台重型战斗机甲，表面有战损痕迹，雨夜街道背景，红外线传感器发光，赛博朋克霓虹灯反射在装甲上，电影级光效
 > **Prompt 2:** 近未来实验室内部，全息投影操作台，半机械改造人正在调试设备，冷色调灯光，复杂的线路细节，高科技感
 
 #### 3. 二次元插画：日漫角色的完美复刻
