@@ -52,7 +52,7 @@ This repository serves as a guide and showcase for the **EYUAI Free AI Image Gen
 | :---: | :---: |
 | ![超现实风格AI生图展示1](https://img.eyuseo.com/file/image-generator/ftAPY7fU.webp) | ![超现实风格AI生图展示2](https://img.eyuseo.com/file/image-generator/NKe6GcEX.webp) |
 > **Prompt 1:** 深海中的透明玻璃宫殿，发光的水母群环绕，阳光透过海面投射出斑驳光影，梦幻氛围，8k分辨率，超现实主义风格。
-> **Prompt 2:** 巨大的时钟齿轮漂浮在云端，时间流逝的具象化，金色夕阳背景，飞鸟掠过，史诗感，极具张力的构图，写实渲染。
+> **Prompt 2:** 巨大的时钟齿轮漂浮在云端，时间流逝的具象化，金色夕阳背景，飞鸟掠过，史诗感，极具张力的构图，写实渲染
 
 #### 2. 硬核机甲风：科技与金属的碰撞
 专为科幻迷打造，精准描绘金属质感与科技光效。
